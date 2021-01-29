@@ -35,6 +35,8 @@ public class App {
 		//System.out.println("Covid 7 jours : "+normalDistribution.cumulativeProbability(15));
 
 		//System.out.println("Covid entre 8 et 22 jours : "+normalDistribution.probability(8, 22));
+		
+		//test
 
 	}
 
